@@ -1,0 +1,1 @@
+include ':app', ':sharesdk', ':onekeyshare', ':onekeyshare', ':smscheck', ':mob_login', ':mvpdemo', ':loadspecialeffects'

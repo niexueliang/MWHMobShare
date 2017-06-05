@@ -1,0 +1,9 @@
+<resources>
+    <string name="share_title">手机行踪速查分享</string>
+    <string name="share_title_url">http://mwhtech.com/</string>
+    <string name="share_title_text">秘无痕手机行踪快速提取~http://mwhtech.com//string</string>
+    <string name="share_url">http://mwhtech.com/</string>
+    <string name="share_comment">给个评论好吗？</string>
+    <string name="share_site">手机行踪速查分享</string>
+    <string name="share_site_url">"http://mwhtech.com/</string>
+</resources>
