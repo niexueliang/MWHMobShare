@@ -9,9 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/loadspecialeffects" />
             <option value="$PROJECT_DIR$/mob_login" />
-            <option value="$PROJECT_DIR$/mvpdemo" />
             <option value="$PROJECT_DIR$/onekeyshare" />
             <option value="$PROJECT_DIR$/sharesdk" />
             <option value="$PROJECT_DIR$/smscheck" />

@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent);
                 break;
             case R.id.bt_sms_check:
-                smsCheck.smsCheck();
+//                smsCheck.smsCheck();
                 smsCheck.smsGUICheck();
                 break;
         }
